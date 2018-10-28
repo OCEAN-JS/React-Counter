@@ -10,4 +10,5 @@ Design of app:
     * _decrement_ - must decrement counter by 1
     * _reset_ - must reset counter to # 0
 
-**Condition**: the counter can't be greater than 100
+**Condition**: the counter can't be less than -100 and greater than 100
+
